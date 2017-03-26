@@ -1,0 +1,19 @@
+{
+  "name": "krajsi_usmev",
+  "version": "1.0.0",
+  "description": "mean 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Domco88/KrajsiUsmev.git"
+  },
+  "author": "Domco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Domco88/KrajsiUsmev/issues"
+  },
+  "homepage": "https://github.com/Domco88/KrajsiUsmev#readme"
+}
